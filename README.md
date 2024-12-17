@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinuka amarasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinuka amarasekara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinuka-amarasekara-8610272b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinuka-amarasekara-8610272b6/" height="30" width="40" /></a>
 <a href="https://fb.com/dinuka amarasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka amarasekara" height="30" width="40" /></a>
 <a href="https://instagram.com/hesh_7.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hesh_7.0" height="30" width="40" /></a>
 </p>
