@@ -1,21 +1,99 @@
-<h1 align="center">Hi 👋, I'm Dinuka Amarasekara</h1>
-<h3 align="center">A passionate IT undergraduate from SLIIT specializing in networking and network security, with hands-on experience in building secure virtual environments and firewall configurations. Always eager to learn, experiment, and grow in the field of cybersecurity</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Firewall and Threat Analysis Lab (FTAL)**
+<p><sub>WOW PROFILE · DINUKA24-CODER · LIVE</sub></p>
 
-- 🌱 I’m currently learning **I’m currently learning computer networking concepts and exploring courses on network security and infrastructure management**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=living-identity&label=Dinuka%20Amarasekara&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=living-identity&label=Dinuka%20Amarasekara&v=wow-living-identity-1&mode=dark" width="100%" alt="Dinuka Amarasekara animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>Frontend or full-stack engineer</strong> · Sri Lanka</p>
+<p>IT enthusiast with interests in networking, cloud computing, and security. Skilled in MERN stack and passionate about learning and problem-solving</p>
+<p><a href="https://github.com/dinuka24-coder">GitHub</a></p>
+</div>
 
-- 📫 How to reach me **amarasekaradinuka25@gmail.com**
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dinuka-amarasekara-8610272b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dinuka-amarasekara-8610272b6" height="30" width="40" /></a>
-<a href="https://fb.com/dinuka amarasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka amarasekara" height="30" width="40" /></a>
-<a href="https://instagram.com/hesh_7.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hesh_7.0" height="30" width="40" /></a>
-</p>
+<h2>Identity, with signal</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top"><p>IT enthusiast with interests in networking, cloud computing, and security. Skilled in MERN stack and passionate about learning and problem-solving</p><p><strong>Focus:</strong> `JavaScript` · `Python` · `HTML`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>9</strong> repos<br /><strong>0</strong> stars<br /><strong>87</strong> contributions<br /><strong>1</strong> followers</p></td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinuka24-coder&show_icons=true&locale=en&layout=compact" alt="dinuka24-coder" /></p>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CPython%3A%3AIn%20the%20build%20queue%7CHTML%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&items=JavaScript%3A%3ACurrent%20focus%7CPython%3A%3AIn%20the%20build%20queue%7CHTML%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Dinuka Amarasekara animated profile highlights" />
+</picture>
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Dinuka Amarasekara animated technology stack" />
+</picture>
+
+<p align="center"><sub>JavaScript · Python · HTML · CSS · PHP · Kotlin · Dockerfile · Hack · chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&repos=dinuka24-coder%2FAutomated-Cisco-Router-Disaster-Recovery-Plan-Project&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&repos=dinuka24-coder%2FAutomated-Cisco-Router-Disaster-Recovery-Plan-Project&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Dinuka Amarasekara animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&repos=dinuka24-coder%2FAutomated-Cisco-Router-Disaster-Recovery-Plan-Project&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&repos=dinuka24-coder%2FAutomated-Cisco-Router-Disaster-Recovery-Plan-Project&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Dinuka Amarasekara animated project launch timeline" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top"><p><strong><a href="https://github.com/Dinuka24-coder/Automated-Cisco-Router-Disaster-Recovery-Plan-Project">Automated-Cisco-Router-Disaster-Recovery-Plan-Project</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Dinuka Amarasekara animated GitHub signal" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Dinuka Amarasekara contribution energy field" />
+</picture>
+
+<p align="center"><sub>0 day current streak · 22 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=dinuka24-coder&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172521843%3Fu%3Dee5fc9766efa247d069440a3bad44c817f1a6563%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Dinuka Amarasekara contact links" />
+</picture>
+<p><a href="https://github.com/dinuka24-coder">GitHub</a></p>
+<p><sub>Dinuka Amarasekara · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
