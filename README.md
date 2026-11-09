@@ -1,114 +1,79 @@
-<img src="assets/header.svg" width="100%" alt="Dinuka Amarasekara - IT & Systems, Network Security, Cloud Architecture" />
+<div align="center">
 
-<p align="center">
-  <b>IT undergraduate @ SLIIT</b> · Sri Lanka 🇱🇰<br/>
-  <sub>Strong systems fundamentals · Passionate about network security · Building toward cloud architecture</sub>
+<img src="assets/hero.svg" width="100%" alt="Dinuka Amarasekara - IT & Systems, Network Security, Cloud Architecture" />
+
+<p><b>IT & Systems</b> · <b>Network Security</b> · <b>Cloud Architecture</b></p>
+<p><sub>Strong systems fundamentals, a passion for securing networks, and a direction toward designing the cloud.</sub></p>
+
+<p>
+  <a href="mailto:amarasekaradinuka25@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/dinuka-amarasekara-8610272b6">LinkedIn</a> ·
+  <a href="https://instagram.com/hesh_7.0">Instagram</a>
 </p>
 
-<p align="center">
-  <a href="#-about">About</a> ·
-  <a href="#-the-path">Path</a> ·
-  <a href="#-projects">Projects</a> ·
-  <a href="#-toolkit">Toolkit</a> ·
-  <a href="#-roadmap">Roadmap</a> ·
-  <a href="#-contact">Contact</a>
-</p>
+</div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 🧭 About
+## Who's behind the keyboard
 
-I like understanding how a system works from end to end: the machine, the network it sits on, and the cloud it eventually runs in.
-
-- 🖥️ **My foundation** is IT and systems: Linux, troubleshooting, databases, virtualization.
-- 🛡️ **My passion** is network security: firewalls, secure design, and threat analysis.
-- ☁️ **My direction** is cloud architecture: designing infrastructure that is secure and scalable from day one.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🪜 The Path
-
-```mermaid
-flowchart LR
-    A["🖥️ IT & Systems<br/><sub>the foundation</sub>"] ==> B["🛡️ Network Security<br/><sub>the passion</sub>"] ==> C["☁️ Cloud Architecture<br/><sub>the direction</sub>"]
-
-    style A fill:#0b1020,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0
-    style B fill:#0b1020,stroke:#a78bfa,stroke-width:2px,color:#e2e8f0
-    style C fill:#0b1020,stroke:#06b6d4,stroke-width:2px,color:#e2e8f0
-```
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🚀 Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### 🔥 Firewall & Threat Analysis Lab
-**Status:** 🟡 In progress
+I like understanding how a system works end to end: the machine, the network it sits on, and the cloud it eventually runs in. I started with IT and systems, fell for network security, and I'm now building toward designing cloud infrastructure that is secure from day one.
 
-Building secure virtual environments, configuring firewalls, and analyzing traffic to understand how real infrastructure is defended.
-
-`Virtualization` `Firewalls` `Threat Analysis`
+**Always:** learning, experimenting, breaking things in labs so they don't break in production.
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-### 🔁 [Automated Cisco Router Disaster Recovery](https://github.com/Dinuka24-coder/Automated-Cisco-Router-Disaster-Recovery-Plan-Project)
-**Status:** 🟢 Published
+`QUICK FACTS`
 
-Automating recovery for Cisco routers so network infrastructure can be restored quickly after a failure.
-
-`Python` `Cisco` `Automation`
+🎓 IT undergraduate, **SLIIT**<br/>
+📍 **Sri Lanka**<br/>
+🔭 Building **FTAL**<br/>
+🌱 Learning **cloud + security**<br/>
+📫 Open to **collaboration**
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 🧰 Toolkit
+## Three layers, one direction
 
-| Area | Tools |
-|:--|:--|
-| 🖥️ **Systems** | `Linux` · `Bash` · `Git` · `Docker` |
-| ☁️ **Cloud** | `AWS` · `Google Cloud` |
-| 🛡️ **Networking & Security** | `Firewalls` · `Cisco` · `Virtual Labs` |
-| 💻 **Development** | `Python` · `PHP` · `JavaScript` · `Node.js` · `Express` · `React Native` |
-| 🗄️ **Data** | `MySQL` · `MongoDB` |
-| 🎨 **Design & API** | `Figma` · `Postman` |
+<img src="assets/highlights.svg" width="100%" alt="Foundation: IT & Systems. Passion: Network Security. Direction: Cloud Architecture" />
 
-<details>
-<summary><b>🌱 Currently learning</b></summary>
-<br/>
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-- Computer networking concepts
-- Network security and infrastructure management courses
-- Cloud platform fundamentals
+## The toolkit
 
-</details>
+<img src="assets/toolkit.svg" width="100%" alt="Toolkit: Linux, Bash, Git, Docker, AWS, Google Cloud, Cisco, Firewalls, Python, PHP, JavaScript, Node.js, Express, React Native, MySQL, MongoDB" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 🎯 Roadmap
+## Built & building
 
-- [x] Build an IT and systems foundation
-- [x] Learn core networking concepts
-- [x] Publish a network automation project
-- [ ] Complete the Firewall & Threat Analysis Lab
-- [ ] Earn a cloud certification (AWS or GCP)
-- [ ] Design and deploy a secure cloud architecture
-- [ ] Become a cloud architect ☁️
+<img src="assets/projects.svg" width="100%" alt="Projects" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<p align="center">
+  <a href="https://github.com/Dinuka24-coder/Automated-Cisco-Router-Disaster-Recovery-Plan-Project"><b>→ View the Cisco Router Disaster Recovery project</b></a>
+</p>
 
-## 📬 Contact
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## The road ahead
+
+<img src="assets/roadmap.svg" width="100%" alt="Roadmap" />
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<img src="assets/contact.svg" width="100%" alt="Let's build something secure" />
 
 <p align="center">
   <a href="mailto:amarasekaradinuka25@gmail.com"><b>📧 Email</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/dinuka-amarasekara-8610272b6"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://instagram.com/hesh_7.0"><b>📸 Instagram</b></a>
 </p>
-
-<p align="center"><sub><i>Good infrastructure is invisible until it's secure, reliable, and everything just works.</i></sub></p>
