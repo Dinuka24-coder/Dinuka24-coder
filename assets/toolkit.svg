@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Toolkit">
+  <style>
+    .c{opacity:0;animation:in .6s ease forwards}
+    @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+    .lbl{font-family:Consolas,'Courier New',monospace;font-size:13px;letter-spacing:2px}
+    .note{font-family:Consolas,'Courier New',monospace;font-size:12px;fill:#475569;text-anchor:end}
+    .t{font-size:15px;fill:#e2e8f0;text-anchor:middle}
+  </style>
+
+  <!-- panels -->
+  <g fill="#0d1326" stroke="#1e293b">
+    <rect x="10" y="15" width="1180" height="50" rx="14"/>
+    <rect x="10" y="75" width="1180" height="50" rx="14"/>
+    <rect x="10" y="135" width="1180" height="50" rx="14"/>
+    <rect x="10" y="195" width="1180" height="50" rx="14"/>
+    <rect x="10" y="255" width="1180" height="50" rx="14"/>
+  </g>
+
+  <!-- row labels -->
+  <circle cx="34" cy="40" r="5" fill="#38bdf8"/><text class="lbl" x="50" y="45" fill="#38bdf8">SYSTEMS</text>
+  <circle cx="34" cy="100" r="5" fill="#22d3ee"/><text class="lbl" x="50" y="105" fill="#22d3ee">CLOUD</text>
+  <circle cx="34" cy="160" r="5" fill="#a78bfa"/><text class="lbl" x="50" y="165" fill="#a78bfa">NETWORK + SEC</text>
+  <circle cx="34" cy="220" r="5" fill="#34d399"/><text class="lbl" x="50" y="225" fill="#34d399">DEVELOPMENT</text>
+  <circle cx="34" cy="280" r="5" fill="#fbbf24"/><text class="lbl" x="50" y="285" fill="#fbbf24">DATA</text>
+
+  <text class="note" x="1170" y="45">the foundation</text>
+  <text class="note" x="1170" y="105">the direction</text>
+  <text class="note" x="1170" y="165">the passion</text>
+  <text class="note" x="1170" y="225">the glue</text>
+  <text class="note" x="1170" y="285">the memory</text>
+
+  <!-- ROW 0 : systems -->
+  <g transform="translate(280,24)"><g class="c" style="animation-delay:.1s"><rect width="73" height="32" rx="16" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".5"/><text class="t" x="36.5" y="21">Linux</text></g></g>
+  <g transform="translate(365,24)"><g class="c" style="animation-delay:.2s"><rect width="64" height="32" rx="16" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".5"/><text class="t" x="32" y="21">Bash</text></g></g>
+  <g transform="translate(441,24)"><g class="c" style="animation-delay:.3s"><rect width="55" height="32" rx="16" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".5"/><text class="t" x="27.5" y="21">Git</text></g></g>
+  <g transform="translate(508,24)"><g class="c" style="animation-delay:.4s"><rect width="82" height="32" rx="16" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".5"/><text class="t" x="41" y="21">Docker</text></g></g>
+
+  <!-- ROW 1 : cloud -->
+  <g transform="translate(280,84)"><g class="c" style="animation-delay:.5s"><rect width="55" height="32" rx="16" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".5"/><text class="t" x="27.5" y="21">AWS</text></g></g>
+  <g transform="translate(347,84)"><g class="c" style="animation-delay:.6s"><rect width="136" height="32" rx="16" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".5"/><text class="t" x="68" y="21">Google Cloud</text></g></g>
+
+  <!-- ROW 2 : network + security -->
+  <g transform="translate(280,144)"><g class="c" style="animation-delay:.7s"><rect width="73" height="32" rx="16" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".5"/><text class="t" x="36.5" y="21">Cisco</text></g></g>
+  <g transform="translate(365,144)"><g class="c" style="animation-delay:.8s"><rect width="109" height="32" rx="16" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".5"/><text class="t" x="54.5" y="21">Firewalls</text></g></g>
+  <g transform="translate(486,144)"><g class="c" style="animation-delay:.9s"><rect width="136" height="32" rx="16" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".5"/><text class="t" x="68" y="21">Virtual Labs</text></g></g>
+
+  <!-- ROW 3 : development -->
+  <g transform="translate(280,204)"><g class="c" style="animation-delay:1s"><rect width="82" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".5"/><text class="t" x="41" y="21">Python</text></g></g>
+  <g transform="translate(374,204)"><g class="c" style="animation-delay:1.1s"><rect width="55" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".5"/><text class="t" x="27.5" y="21">PHP</text></g></g>
+  <g transform="translate(441,204)"><g class="c" style="animation-delay:1.2s"><rect width="118" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".5"/><text class="t" x="59" y="21">JavaScript</text></g></g>
+  <g transform="translate(571,204)"><g class="c" style="animation-delay:1.3s"><rect width="91" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".5"/><text class="t" x="45.5" y="21">Node.js</text></g></g>
+  <g transform="translate(674,204)"><g class="c" style="animation-delay:1.4s"><rect width="91" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".5"/><text class="t" x="45.5" y="21">Express</text></g></g>
+  <g transform="translate(777,204)"><g class="c" style="animation-delay:1.5s"><rect width="136" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".5"/><text class="t" x="68" y="21">React Native</text></g></g>
+
+  <!-- ROW 4 : data -->
+  <g transform="translate(280,264)"><g class="c" style="animation-delay:1.6s"><rect width="73" height="32" rx="16" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".5"/><text class="t" x="36.5" y="21">MySQL</text></g></g>
+  <g transform="translate(365,264)"><g class="c" style="animation-delay:1.7s"><rect width="91" height="32" rx="16" fill="#fbbf24" fill-opacity=".1" stroke="#fbbf24" stroke-opacity=".5"/><text class="t" x="45.5" y="21">MongoDB</text></g></g>
+</svg>
