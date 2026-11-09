@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Dinuka Amarasekara - IT and Systems, Network Security, Cloud Architecture">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060a17"/><stop offset="1" stop-color="#140f33"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset="0.55" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="400" rx="20"/></clipPath>
+    <clipPath id="tw">
+      <rect x="60" y="246" width="0" height="40">
+        <animate attributeName="width" from="0" to="470" dur="3s" begin="1.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+
+    <!-- aurora blobs -->
+    <g filter="url(#blur)">
+      <circle cx="250" cy="90" r="170" fill="#38bdf8" opacity="0.28">
+        <animate attributeName="cx" values="250;420;250" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="90;150;90" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="900" cy="330" r="200" fill="#8b5cf6" opacity="0.32">
+        <animate attributeName="cx" values="900;760;900" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1080" cy="60" r="130" fill="#22d3ee" opacity="0.22">
+        <animate attributeName="cy" values="60;160;60" dur="12s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+
+    <!-- status pill -->
+    <g font-family="Consolas,'Courier New',monospace" font-size="13" letter-spacing="2">
+      <rect x="60" y="48" width="196" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#34d399" stroke-opacity="0.5"/>
+      <circle cx="82" cy="64" r="5" fill="#34d399">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="98" y="69" fill="#a7f3d0">ONLINE · LIVE</text>
+    </g>
+
+    <!-- name + subtitle -->
+    <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+      <text x="60" y="170" font-size="64" font-weight="800" fill="url(#ac)" opacity="0">
+        Dinuka Amarasekara
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 24" to="0 0" dur="1s" begin="0.2s" fill="freeze"/>
+      </text>
+      <text x="62" y="214" font-size="22" fill="#cbd5e1" opacity="0">
+        IT &amp; Systems  ·  Network Security  ·  Cloud Architecture
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.7s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- typewriter line -->
+    <g clip-path="url(#tw)">
+      <text x="62" y="272" font-size="20" fill="#38bdf8" font-family="Consolas,'Courier New',monospace" textLength="444" lengthAdjust="spacingAndGlyphs">$ whoami → systems · security · cloud</text>
+    </g>
+    <rect y="254" width="10" height="22" fill="#a78bfa">
+      <animate attributeName="x" from="62" to="506" dur="3s" begin="1.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- pills -->
+    <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e2e8f0" text-anchor="middle">
+      <rect x="60" y="312" width="262" height="34" rx="17" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-opacity="0.45"/>
+      <text x="191" y="334">🎓 IT Undergraduate · SLIIT</text>
+      <rect x="334" y="312" width="150" height="34" rx="17" fill="#a78bfa" fill-opacity="0.1" stroke="#a78bfa" stroke-opacity="0.45"/>
+      <text x="409" y="334">📍 Sri Lanka</text>
+    </g>
+
+    <!-- orbit system -->
+    <g transform="translate(940 200)">
+      <circle r="70" fill="none" stroke="#38bdf8" stroke-opacity="0.25"/>
+      <circle r="110" fill="none" stroke="#a78bfa" stroke-opacity="0.25"/>
+      <circle r="150" fill="none" stroke="#22d3ee" stroke-opacity="0.2" stroke-dasharray="4 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/>
+      </circle>
+
+      <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+        <circle cx="70" r="9" fill="#38bdf8"/></g>
+      <g><animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="15s" repeatCount="indefinite"/>
+        <circle cx="110" r="10" fill="#a78bfa"/></g>
+      <g><animateTransform attributeName="transform" type="rotate" from="240" to="-120" dur="22s" repeatCount="indefinite"/>
+        <circle cx="150" r="11" fill="#22d3ee"/></g>
+
+      <circle r="44" fill="#0b1020" stroke="url(#ac)" stroke-width="3"/>
+      <circle r="44" fill="none" stroke="#a78bfa" stroke-width="2">
+        <animate attributeName="r" from="44" to="78" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" from="0.8" to="0" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <text y="12" text-anchor="middle" font-size="34" font-weight="800" fill="url(#core)" font-family="'Segoe UI',Helvetica,Arial,sans-serif">DA</text>
+    </g>
+  </g>
+</svg>
